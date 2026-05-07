@@ -1,0 +1,19 @@
+{
+  "name": "creative-asset-catalog-metadata-shelf",
+  "title": "制作素材カタログ・メタデータ棚",
+  "domain": "AdobePlugin",
+  "kind": "adobe-plugin",
+  "host": "Bridge",
+  "field": "Adobe素材カタログ",
+  "audience": "Adobe系素材を案件横断で管理する制作者",
+  "workflow": "素材名、用途、権利、メタデータ、利用先を棚へ登録し、再利用と納品確認に使う。",
+  "requiredFields": [
+    "assetName",
+    "metadataKey",
+    "usageStatus",
+    "license"
+  ],
+  "warningField": "licenseUnclear",
+  "warningMessage": "権利または利用条件が曖昧です。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}
