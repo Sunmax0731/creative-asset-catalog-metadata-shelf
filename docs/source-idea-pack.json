@@ -1,0 +1,35 @@
+{
+  "pickupRank": 51,
+  "domain": "AdobePlugin",
+  "ideaNo": 7,
+  "idea": "制作素材カタログ・メタデータ棚",
+  "repository": "creative-asset-catalog-metadata-shelf",
+  "publish": "BOOTH / GitHub Release",
+  "createdIdeaFolder": "D:/AI/AdobePlugin/created_idea_007_creative-asset-catalog-metadata-shelf",
+  "zipFile": "D:/AI/AdobePlugin/created_idea_007_creative-asset-catalog-metadata-shelf/idea_007_creative-asset-catalog-metadata-shelf.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "creative-asset-catalog-metadata-shelf",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/AdobePlugin/Design.md",
+    "D:/AI/IDEAS/AdobePlugin/Architecture.md",
+    "D:/AI/IDEAS/AdobePlugin/AGENTS.md",
+    "D:/AI/IDEAS/AdobePlugin/SKILL.md",
+    "D:/AI/AdobePlugin/AGENTS.md",
+    "D:/AI/AdobePlugin/SKILL.md"
+  ],
+  "hostInference": {
+    "host": "Bridge",
+    "rationale": "素材カタログとメタデータ棚はファイル横断管理が主目的で、Adobe Bridge のメタデータ/アセットブラウズ用途に最も合うため。"
+  }
+}

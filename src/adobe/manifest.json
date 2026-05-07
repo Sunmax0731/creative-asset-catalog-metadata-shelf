@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 5,
+  "id": "sunmax.creative-asset-catalog-metadata-shelf",
+  "name": "制作素材カタログ・メタデータ棚",
+  "version": "0.1.0",
+  "main": "index.html",
+  "host": [
+    {
+      "app": "BRDG",
+      "minVersion": "1.0.0"
+    }
+  ],
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "main",
+      "label": "制作素材カタログ・メタデータ棚"
+    }
+  ]
+}
