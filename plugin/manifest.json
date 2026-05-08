@@ -1,0 +1,18 @@
+{
+  "id": "com.sunmax0731.creative-asset-catalog-metadata-shelf",
+  "name": "制作素材カタログ・メタデータ棚",
+  "version": "0.1.0-alpha.1",
+  "manifestVersion": 5,
+  "host": {
+    "app": "Bridge",
+    "minVersion": "1.0.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "closed-alpha-panel",
+      "label": "制作素材カタログ・メタデータ棚",
+      "mainPath": "panel.html"
+    }
+  ]
+}

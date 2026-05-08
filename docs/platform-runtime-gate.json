@@ -1,0 +1,11 @@
+{
+  "product": "creative-asset-catalog-metadata-shelf",
+  "title": "制作素材カタログ・メタデータ棚",
+  "domain": "AdobePlugin",
+  "ideaNo": 7,
+  "platformType": "adobe-host-plugin",
+  "expectedPublicTarget": "BOOTH / GitHub Release",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
